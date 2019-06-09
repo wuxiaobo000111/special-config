@@ -1,0 +1,4 @@
+com:
+  bobo:
+    config:
+      special: hello, I am from special-config
